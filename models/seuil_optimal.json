@@ -1,0 +1,4 @@
+{
+  "seuil": 0.9620143175125122,
+  "modele": "xgb_scale_pos_weight.pkl"
+}
