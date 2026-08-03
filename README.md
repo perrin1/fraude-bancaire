@@ -10,7 +10,7 @@ et optimisation du seuil de décision.
 |---|---|---|---|
 | XGBoost standard | 0.8254 | 0.7959 | 0.9277 |
 | scale_pos_weight | 0.8586 | 0.8367 | 0.9662 |
-| SMOTE | 0.7580 | 0.8469 | 0.9742 |
+| SMOTE | 0.8431 | 0.8776 | 0.9827 |
 | **scale_pos_weight + seuil optimal**  | **~0.88+** |  | 0.9662 |
 
 > Modèle retenu : **XGBoost + scale_pos_weight + seuil optimisé**.
